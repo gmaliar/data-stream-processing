@@ -1,0 +1,20 @@
+{
+  "name": "data-stream-processor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "package.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node_modules/mocha/bin/mocha test/"
+  },
+  "author": "Guy Maliar",
+  "license": "WTFPL",
+  "dependencies": {
+    "express": "^4.13.4",
+    "split": "1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}

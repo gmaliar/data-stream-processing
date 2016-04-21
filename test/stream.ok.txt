@@ -1,0 +1,5 @@
+{ "event_type": "baz", "data": "amet", "timestamp": 1461241281 }
+{ "event_type": "foo", "data": "lorem", "timestamp": 1461241287 }
+{ "event_type": "baz", "data": "ipsum", "timestamp": 1461241287 }
+{ "event_type": "foo", "data": "dolor", "timestamp": 1461241287 }
+{ "event_type": "foo", "data": "lorem", "timestamp": 1461241287 }
